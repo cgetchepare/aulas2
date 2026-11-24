@@ -29,9 +29,7 @@ https://docs.python.org/pt-br/3/library
 Importar uma biblioteca em Python significa trazer para o seu programa um conjunto de recursos que já foram desenvolvidos, para que você possa utilizá-los sem precisar criar tudo do zero.
 
 ```
-
 import openpyxl
-
 ```
 
 "Quero usar os recursos da biblioteca openpyxl neste programa".
