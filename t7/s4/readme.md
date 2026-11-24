@@ -1,4 +1,5 @@
 # Diário de Bordo
+
 24/11/2026
 
 Notas de aula de Carlos G.F.E.
@@ -20,9 +21,9 @@ https://docs.python.org/pt-br/3/library
 
 |**Formato**|**Como organiza os dados**|**Exemplo de uso**|
 |-|-|-|
-|CSV<br />.csv|Texto organizado em registros e campos separados por um delimitador.|Exportação de uma tabela de vendas.|
-|JSON<br />.json|Texto com objetos, listas e valores, permitindo estruturas aninhadas.|Troca de dados entre sistemas.|
-|Excel<br />.xlsx|Pasta de trabalho com uma ou mais planilhas.|Relatório consultado por uma equipe.|
+|CSV<br />(.csv)|Texto organizado em registros e campos separados por um delimitador.|Exportação de uma tabela de vendas.|
+|JSON<br />(.json)|Texto com objetos, listas e valores, permitindo estruturas aninhadas.|Troca de dados entre sistemas.|
+|Excel<br />(.xlsx)|Pasta de trabalho com uma ou mais planilhas.|Relatório consultado por uma equipe.|
 
 ### Importar uma biblioteca em Python
 
